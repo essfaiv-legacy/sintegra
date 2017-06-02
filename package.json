@@ -1,0 +1,22 @@
+{
+  "name": "sintegra",
+  "version": "1.0.0",
+  "description": "Revert, generate and validate Sintegra text files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essfaiv/sintegra.git"
+  },
+  "keywords": [
+    "sintegra"
+  ],
+  "author": "Gilberto Tavares <camaleaun@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/essfaiv/sintegra/issues"
+  },
+  "homepage": "https://github.com/essfaiv/sintegra#readme"
+}
