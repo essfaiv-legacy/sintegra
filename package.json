@@ -4,7 +4,7 @@
   "description": "Revert, generate and validate Sintegra text files",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/mocha/bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/essfaiv/sintegra#readme",
   "devDependencies": {
-    "jshint": "^2.9.4"
+    "jshint": "^2.9.4",
+    "mocha": "^3.4.2"
   }
 }
