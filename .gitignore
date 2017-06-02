@@ -1,3 +1,6 @@
+# tools folders
+node_modules
+
 # OS files
 .DS_Store   # OSX
 desktop.ini # Windows
