@@ -1,6 +1,6 @@
 # Manual Sintegra
 
-https://www.sefaz.mt.gov.br/portal/Tributario/Sintegra/manual1.pdf
+https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/cv057_95_manual_de_orientacao
 
 ## Registro Tipo 10
 
