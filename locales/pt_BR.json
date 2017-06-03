@@ -1,1 +1,7 @@
-{}
+{
+	"Entry Type 10": "Registro 10",
+	"%s must be equals %s": "%s deve ser igual %s",
+	"Type": "Tipo",
+	"Company Name With Length For Cropping": "Empresa Nome Com Comprimento Para Corte",
+	"Company name": "Razão Social"
+}
