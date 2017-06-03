@@ -13,7 +13,7 @@ Mestre do Estabelecimento
 | 02 | CGC/MF | CGC/MF do estabelecimento informante | 14 | 3 | 16 | N |
 | 03 | Inscrição Estadual | Inscrição estadual do estabelecimento informante | 14 | 17 | 30 | X |
 | 04 | Nome do Contribuinte | Nome comercial (razão social/denominação) do contribuinte | 35 | 31 | 65 | X |
-| 05 | Município|  Município onde está domiciliado o estabelecimento informante | 30 | 66 | 95 | X |
+| 05 | Município | Município onde está domiciliado o estabelecimento informante | 30 | 66 | 95 | X |
 | 06 | Unidade da Federação | Unidade da Federação referente ao Município | 2 | 96 | 97 | X |
 | 07 | Fax | Número do fax do estabelecimento informante | 10 | 98 | 107 | N |
 | 08 | Data Inicial | A data do início do período referente às informações prestadas | 8 | 108 | 115 | N |
